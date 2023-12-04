@@ -1,7 +1,7 @@
 # TBB
 Trade Bit Bot
 
-🪙🪙🪙🪙
+
 Trade will be in BOX.
 
 And will connect AI with Non-linear BOX graph.
